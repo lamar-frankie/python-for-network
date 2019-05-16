@@ -96,7 +96,7 @@ sudo apt install -y ansible
 
 ## Additional Resources
 
-####Git
+### Git
 
 [Git Docs](https://git-scm.com/docs/gittutorial)
 
